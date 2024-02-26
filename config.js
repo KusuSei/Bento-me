@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Vocaloid',
+					link: 'https://www.youtube.com/playlist?list=PLB02wINShjkBKnLfufaEPnCupGO-SK6e4',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Love Live',
+					link: 'https://www.youtube.com/playlist?list=PLIY33qKb4qluEfHy_YqvDhp9uyrvLaMhg',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'J-Pop',
+					link: 'https://www.youtube.com/playlist?list=PL2RCZabkpynpT4aUuKzBP3SXDo3Kf9VF6',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'K-Pop',
+					link: 'https://www.youtube.com/playlist?list=PLbxr0tBuEEpF1PFiDIwUkdDR5dsfx1ZUr',
 				},
 			],
 		},
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Anilist',
+					link: 'https://anilist.co',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'WhatsApp',
+					link: 'https://web.whatsapp.com/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Anime',
+					link: 'https://nyaa.si/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Facebook',
+					link: 'https://facebook.com',
 				},
 			],
 		},
